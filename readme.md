@@ -10,7 +10,7 @@
 
 ## Description
 
-__Webpage displays some basic information on Zen R Dickens, the dog. It shows some photos of Zen and a link to her favorite webpage. 
+Webpage displays some basic information on Zen R Dickens, the dog. It shows some photos of Zen and a link to her favorite webpage. 
 
 ## Setup/Installation Requirements
 
