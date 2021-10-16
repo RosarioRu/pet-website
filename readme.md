@@ -14,15 +14,15 @@ Webpage displays some basic information on Zen R Dickens, the dog. It shows some
 
 ## Setup/Installation Requirements
 
-* _I'm not sure how how this applies to this particular project. You can click on the link for PETA.
-* _You must view website though web browser over the internet (somehow - not sure about that yet).
+* _I'm not sure how how this applies to this particular project. You can click on the link for PETA._
+* _You must view website though web browser over the internet (somehow - not sure about that yet)._
 
 ## Known Bugs
 
-* _Contributer is totally new to coding so some indentation could potentially be incorrect. 
+* _Contributer is totally new to coding so some indentation could potentially be incorrect._
 
 ## License
 
-_no license yet
+_no license yet_
 
 Copyright (c) _10/16/21 _Rosario RH_
