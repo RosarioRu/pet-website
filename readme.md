@@ -6,7 +6,7 @@
 
 ## Technologies Used
 
-* _html
+* _html_
 
 ## Description
 
