@@ -42,3 +42,11 @@ img {
 .theButton {
   text-align: center;
 }
+
+.dark-background {
+  background-color: black;
+}
+
+.light-text {
+  color: white;
+}
