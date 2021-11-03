@@ -36,4 +36,9 @@ img {
   max-width: 20%;
   max-height: 20%;
   border: rgb(9, 9, 92);
+
+}
+
+.theButton {
+  text-align: center;
 }
