@@ -11,9 +11,6 @@ $(document).ready(function() {
     $("body").removeClass();
     $("#button2").toggle();
     $("#theButton").toggle();
-    // $("body").addClass("light-background");
-    // $("#theButton").show();
   });
-  
 
 });
