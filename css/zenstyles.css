@@ -51,3 +51,7 @@ img {
 .light-text {
   color: white;
 }
+
+#button2 {
+  display: none;
+}
